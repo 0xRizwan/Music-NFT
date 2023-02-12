@@ -1,0 +1,13 @@
+{
+    "name": "cinematic adventure Music NFT by Mohammed Rizwan",
+    "description": "My First Music NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXZ3TgRgd5EZEk2DhwGvjf8f6sQJNCrnHzrEw1oHufgnL/2.png",
+    "animation_url": "ipfs://QmeR5D2wUHRkTGmgbv5ymwmfosTEGmHHifNc2pn6t4ANf3",
+
+    "attributes": [
+    {
+      "trait_type": "Music",
+      "value": "Instrumental"
+    }
+  ]
+}
